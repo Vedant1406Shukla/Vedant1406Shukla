@@ -32,15 +32,6 @@
 
 ---
 
-
-## 📊 GitHub Stats  
-
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant1406Shukla&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant1406Shukla&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vedant1406Shukla&theme=tokyonight)
