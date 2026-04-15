@@ -7,8 +7,7 @@
 ## 🧠 About Me  
 - 🎓 B.Tech Student passionate about **Software Development & Problem Solving**  
 - 💻 Strong foundation in **Data Structures & Algorithms**  
-- ⚙️ Exploring **Machine Learning, OS, and System Design**  
-- 🎤 Currently working on **Speech-to-Speech Translation & TTS Systems**  
+- ⚙️ Exploring **Machine Learning, OS, and System Design**   
 - 🔥 Love building **real-world scalable projects**  
 
 ---
@@ -16,7 +15,7 @@
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Languages  
-`Java` `Python` `C` `JavaScript`  
+`Java` `Python` `C`,`C++` `JavaScript`  
 
 ### 🌐 Web Development  
 `HTML` `CSS` `React` `Node.js`  
@@ -33,28 +32,6 @@
 
 ---
 
-## 🚀 Projects  
-
-### 🔊 Speech-to-Speech Translation System  
-- Real-time speech translation pipeline  
-- Integrated **TTS models (XTTS, VITS, Indic TTS)**  
-- Focus on **low latency + high accuracy tradeoff**  
-
----
-
-### 🗺️ Topographic Map ML Project  
-- Extracted features from topo maps  
-- Built dataset pipeline → CSV export  
-- Applied ML techniques for pattern recognition  
-
----
-
-### 📂 Real-Time File Sharing System  
-- Anonymous file transfer system  
-- Guest room-based sharing mechanism  
-- Seamless sender-receiver interaction  
-
----
 
 ## 📊 GitHub Stats  
 
